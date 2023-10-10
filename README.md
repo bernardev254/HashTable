@@ -29,7 +29,7 @@ Collisions occur when two different keys produce the same hash value orindex. Th
 
 > **for this project we will use chain Hashing where for all keys colliding we will maintain linked lists and store different k,v pairs with simillar hash**
 
-## python_dictionaries
+## python_dictionary
 In Python, the built-in dictionary data structure is an example of a hash table. Python dictionaries are highly optimized and efficient, providing constant-time average complexity for operations like inserting, accessing, and deleting key-value pairs.
 
 You can use Python dictionaries as follows:
